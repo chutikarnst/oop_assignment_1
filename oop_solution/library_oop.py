@@ -1,3 +1,6 @@
+#I made all 3 class and tested them first before doing the seperate commit
+#I save the texts in my notes then delete all the text in the file
+
 class Book:
     def __init__(self, id, title, author, total_copies):
         self.id = id
